@@ -16,7 +16,7 @@ The code works, but only just. It has quality, style and security problems of th
    ```bash
    python ticket_booking_system.py
    ```
-   It asks one question. Press Enter to use the default, then try a few inputs of your own. Not every problem in this file is something a tool will flag, so pay attention to output that looks wrong.
+   
 
 2. **Install the tools:**
    ```bash
@@ -48,4 +48,6 @@ The code works, but only just. It has quality, style and security problems of th
 
 **Target:** aim for a Pylint score above 9.5 on your final file. A perfect 10.00/10 is very good.
 
-Be ready to explain the bugs you found and how you fixed them. You may be called on to present.
+## Forked Repository
+
+Fork URL: https://github.com/psj032005-algo/L5_45_ticket_booking_system
